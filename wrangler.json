@@ -1,4 +1,5 @@
 {
 "name": "cnp-a",
 "compatibility_date": "2025-06-24",
+main = "/index.html"
 }
