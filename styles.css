@@ -430,20 +430,23 @@ footer {
 }
 
 .hero-overlay {
-    max-width: 419px;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 30px 40px;
+    border-radius: 20px;
+    max-width: 900px;
     text-align: center;
 }
 
     .hero-overlay h2 {
-        color: #FFFFFF;
-        font-size: 5.5rem;
+        color: #184429;
+        font-size: 1.5rem;
         margin-bottom: 15px;
     }
 
     .hero-overlay p {
-        font-size: 0.9rem;
-        color: #FFF;
-        line-height: 1;
+        font-size: 1rem;
+        color: #333;
+        line-height: 1.6;
         margin: 0;
     }
 
